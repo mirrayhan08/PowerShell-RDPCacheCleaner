@@ -34,7 +34,5 @@ If preferred, users can manually remove cached RDP connections from the Windows 
 
 Contributions, feedback, and suggestions for improvement are welcomed and encouraged. Feel free to submit pull requests, report issues, or provide feedback through the repository's GitHub page. Together, we can enhance and evolve this tool to better meet the needs of the community.
 
-**GitHub Repository:** [PowerShell-RDPCacheCleaner](https://github.com/mirrayhan08/PowerShell-RDPCacheCleaner)
-
-## More details
-Check the details: https://rayssl.com/powershell-rdp-cache-cleaner-streamlining-remote-desktop-connection-management/
+**More details:** (https://rayssl.com/powershell-rdp-cache-cleaner-streamlining-remote-desktop-connection-management/
+)
